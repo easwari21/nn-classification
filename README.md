@@ -240,9 +240,10 @@ print(le.inverse_transform(x_single_prediction))
 ![label](Dataset.jpg)
 
 ## OUTPUT
+
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-![label](Plot .jpg)
+![label](plot.jpg)
 
 ### Classification Report
 
